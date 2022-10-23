@@ -61,20 +61,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Microsoft Secure Score"
+                    "name": "A. Microsoft Secure Score",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Productivity Score"
+                    "name": "B. Productivity Score",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Secure score in Azure Security Center"
+                    "name": "C. Secure score in Azure Security Center",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Compliance score"
+                    "name": "D. Compliance score",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -86,20 +86,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Azure AD Connect"
+                    "name": "A. Azure AD Connect",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. a Log Analytics workspace"
+                    "name": "B. a Log Analytics workspace",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Azure Information Protection"
+                    "name": "C. Azure Information Protection",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. a connector"
+                    "name": "D. a connector",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -111,20 +111,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. the Microsoft Endpoint Manager admin center"
+                    "name": "A. the Microsoft Endpoint Manager admin center",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Azure Cost Management + Billing"
+                    "name": "B. Azure Cost Management + Billing",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Microsoft Service Trust Portal"
+                    "name": "C. Microsoft Service Trust Portal",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. the Azure Active Directory admin center"
+                    "name": "D. the Azure Active Directory admin center",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -136,20 +136,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. the management of mobile devices"
+                    "name": "A. the management of mobile devices",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. the permissions for the user data stored in Azure"
+                    "name": "B. the permissions for the user data stored in Azure",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. the creation and management of user accounts"
+                    "name": "C. the creation and management of user accounts",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. the management of the physical hardware"
+                    "name": "D. the management of the physical hardware",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -224,24 +224,24 @@
             "numOfOptions": 5,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Plan"
+                    "name": "A. Plan",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Manage"
+                    "name": "B. Manage",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Adopt"
+                    "name": "C. Adopt",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Govern"
+                    "name": "D. Govern",
+                    "value": "D"
                 },
                 {
-                    "name": "E",
-                    "value": "E. Define Strategy"
+                    "name": "E. Define Strategy",
+                    "value": "E"
                 }
             ],
             "answer": "AE",
@@ -280,20 +280,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. encrypting communications by using a site-to-site VPN"
+                    "name": "A. encrypting communications by using a site-to-site VPN",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. encrypting a virtual machine disk"
+                    "name": "B. encrypting a virtual machine disk",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. accessing a website by using an encrypted HTTPS connection"
+                    "name": "C. accessing a website by using an encrypted HTTPS connection",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. sending an encrypted email"
+                    "name": "D. sending an encrypted email",
+                    "value": "D"
                 }
             ],
             "answer": "B",
@@ -305,24 +305,24 @@
             "numOfOptions": 5,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Define the perimeter by physical locations."
+                    "name": "A. Define the perimeter by physical locations.",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Use identity as the primary security boundary."
+                    "name": "B. Use identity as the primary security boundary.",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Always verify the permissions of a user explicitly."
+                    "name": "C. Always verify the permissions of a user explicitly.",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Always assume that the user system can be breached."
+                    "name": "D. Always assume that the user system can be breached.",
+                    "value": "D"
                 },
                 {
-                    "name": "E",
-                    "value": "E. Use the network as the primary security boundary."
+                    "name": "E. Use the network as the primary security boundary.",
+                    "value": "E"
                 }
             ],
             "answer": "BCD",
@@ -370,20 +370,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Azure Active Directory (Azure AD) Privileged Identity Management (PIM)"
+                    "name": "A. Azure Active Directory (Azure AD) Privileged Identity Management (PIM)",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Azure Multi-Factor Authentication (MFA)"
+                    "name": "B. Azure Multi-Factor Authentication (MFA)",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Azure Active Directory (Azure AD) Identity Protection"
+                    "name": "C. Azure Active Directory (Azure AD) Identity Protection",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. conditional access policies"
+                    "name": "D. conditional access policies",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -395,20 +395,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Active Directory Federation Services (AD FS)"
+                    "name": "A. Active Directory Federation Services (AD FS)",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Microsoft Sentinel"
+                    "name": "B. Microsoft Sentinel",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Azure AD Connect"
+                    "name": "C. Azure AD Connect",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Azure AD Privileged Identity Management (PIM)"
+                    "name": "D. Azure AD Privileged Identity Management (PIM)",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -447,20 +447,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. to control how often users must change their passwords"
+                    "name": "A. to control how often users must change their passwords",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. to identify devices to which users can sign in without using multi-factor authentication (MFA)"
+                    "name": "B. to identify devices to which users can sign in without using multi-factor authentication (MFA)",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. to encrypt a password by using globally recognized encryption standards"
+                    "name": "C. to encrypt a password by using globally recognized encryption standards",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. to prevent users from using specific words in their passwords"
+                    "name": "D. to prevent users from using specific words in their passwords",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -472,20 +472,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. access reviews"
+                    "name": "A. access reviews",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. managed identities"
+                    "name": "B. managed identities",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. conditional access policies"
+                    "name": "C. conditional access policies",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Azure AD Identity Protection"
+                    "name": "D. Azure AD Identity Protection",
+                    "value": "D"
                 }
             ],
             "answer": "A",
@@ -542,20 +542,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. conditional access policies"
+                    "name": "A. conditional access policies",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Azure AD Identity Protection"
+                    "name": "B. Azure AD Identity Protection",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Azure AD Privileged Identity Management (PIM)"
+                    "name": "C. Azure AD Privileged Identity Management (PIM)",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. authentication method policies"
+                    "name": "D. authentication method policies",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -567,24 +567,24 @@
             "numOfOptions": 5,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. text message (SMS)"
+                    "name": "A. text message (SMS)",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Microsoft Authenticator app"
+                    "name": "B. Microsoft Authenticator app",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. email verification"
+                    "name": "C. email verification",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. phone call"
+                    "name": "D. phone call",
+                    "value": "D"
                 },
                 {
-                    "name": "E",
-                    "value": "E. security question"
+                    "name": "E. security question",
+                    "value": "E"
                 }
             ],
             "answer": "ABD",
@@ -596,20 +596,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. sensitivity label policies"
+                    "name": "A. sensitivity label policies",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Customer Lockbox"
+                    "name": "B. Customer Lockbox",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. information barriers"
+                    "name": "C. information barriers",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Privileged Access Management (PAM)"
+                    "name": "D. Privileged Access Management (PAM)",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -648,24 +648,24 @@
             "numOfOptions": 5,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. fingerprint"
+                    "name": "A. fingerprint",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. facial recognition"
+                    "name": "B. facial recognition",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. PIN"
+                    "name": "C. PIN",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. email verification"
+                    "name": "D. email verification",
+                    "value": "D"
                 },
                 {
-                    "name": "E",
-                    "value": "E. security question"
+                    "name": "E. security question",
+                    "value": "E"
                 }
             ],
             "answer": "ABC",
@@ -686,20 +686,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Windows Hello for Business"
+                    "name": "A. Windows Hello for Business",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Azure Active Directory (Azure AD) Identity Protection"
+                    "name": "B. Azure Active Directory (Azure AD) Identity Protection",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. access reviews in Azure Active Directory (Azure AD)"
+                    "name": "C. access reviews in Azure Active Directory (Azure AD)",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Azure Active Directory (Azure AD) Privileged Identity Management (PIM)"
+                    "name": "D. Azure Active Directory (Azure AD) Privileged Identity Management (PIM)",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -720,24 +720,24 @@
             "numOfOptions": 5,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. All users must authenticate from a registered device."
+                    "name": "A. All users must authenticate from a registered device.",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Administrators must always use Azure Multi-Factor Authentication (MFA)."
+                    "name": "B. Administrators must always use Azure Multi-Factor Authentication (MFA).",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Azure Multi-Factor Authentication (MFA) registration is required for all users."
+                    "name": "C. Azure Multi-Factor Authentication (MFA) registration is required for all users.",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. All users must authenticate by using passwordless sign-in."
+                    "name": "D. All users must authenticate by using passwordless sign-in.",
+                    "value": "D"
                 },
                 {
-                    "name": "E",
-                    "value": "E. All users must authenticate by using Windows Hello."
+                    "name": "E. All users must authenticate by using Windows Hello.",
+                    "value": "E"
                 }
             ],
             "answer": "BC",
@@ -749,20 +749,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. a user account"
+                    "name": "A. a user account",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. a user-assigned managed identity"
+                    "name": "B. a user-assigned managed identity",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. a system-assigned managed identity"
+                    "name": "C. a system-assigned managed identity",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. a service principal"
+                    "name": "D. a service principal",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -774,24 +774,24 @@
             "numOfOptions": 5,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Configure external access for partner organizations."
+                    "name": "A. Configure external access for partner organizations.",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Export risk detection to third-party utilities."
+                    "name": "B. Export risk detection to third-party utilities.",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Automate the detection and remediation of identity based-risks."
+                    "name": "C. Automate the detection and remediation of identity based-risks.",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Investigate risks that relate to user authentication."
+                    "name": "D. Investigate risks that relate to user authentication.",
+                    "value": "D"
                 },
                 {
-                    "name": "E",
-                    "value": "E. Create and automatically assign sensitivity labels to data."
+                    "name": "E. Create and automatically assign sensitivity labels to data.",
+                    "value": "E"
                 }
             ],
             "answer": "CDE",
@@ -839,20 +839,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. automated investigation and remediation"
+                    "name": "A. automated investigation and remediation",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. transport encryption"
+                    "name": "B. transport encryption",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. shadow IT detection"
+                    "name": "C. shadow IT detection",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. attack surface reduction"
+                    "name": "D. attack surface reduction",
+                    "value": "D"
                 }
             ],
             "answer": "AD",
@@ -927,20 +927,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. automated remediation"
+                    "name": "A. automated remediation",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. automated investigation"
+                    "name": "B. automated investigation",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. advanced hunting"
+                    "name": "C. advanced hunting",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. network protection"
+                    "name": "D. network protection",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -961,24 +961,24 @@
             "numOfOptions": 5,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Azure virtual machines"
+                    "name": "A. Azure virtual machines",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Azure Active Directory (Azure AD) users"
+                    "name": "B. Azure Active Directory (Azure AD) users",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Microsoft Exchange Online inboxes"
+                    "name": "C. Microsoft Exchange Online inboxes",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Azure virtual networks"
+                    "name": "D. Azure virtual networks",
+                    "value": "D"
                 },
                 {
-                    "name": "E",
-                    "value": "E. Microsoft SharePoint Online sites"
+                    "name": "E. Microsoft SharePoint Online sites",
+                    "value": "E"
                 }
             ],
             "answer": "DE",
@@ -990,20 +990,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. threat modeling"
+                    "name": "A. threat modeling",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. identity as the security perimeter"
+                    "name": "B. identity as the security perimeter",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. defense in depth"
+                    "name": "C. defense in depth",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. the shared responsibility model"
+                    "name": "D. the shared responsibility model",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1024,20 +1024,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Microsoft Defender for Office 365"
+                    "name": "A. Microsoft Defender for Office 365",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Microsoft Defender Antivirus"
+                    "name": "B. Microsoft Defender Antivirus",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Microsoft Defender for Identity"
+                    "name": "C. Microsoft Defender for Identity",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Microsoft Defender for Endpoint"
+                    "name": "D. Microsoft Defender for Endpoint",
+                    "value": "D"
                 }
             ],
             "answer": "A",
@@ -1049,20 +1049,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. integration with the Microsoft 365 compliance center"
+                    "name": "A. integration with the Microsoft 365 compliance center",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. support for threat hunting"
+                    "name": "B. support for threat hunting",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. integration with Microsoft 365 Defender"
+                    "name": "C. integration with Microsoft 365 Defender",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. support for Azure Monitor Workbooks"
+                    "name": "D. support for Azure Monitor Workbooks",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1074,20 +1074,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Microsoft Secure Score"
+                    "name": "A. Microsoft Secure Score",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. application security groups"
+                    "name": "B. application security groups",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Microsoft Defender for Cloud"
+                    "name": "C. Microsoft Defender for Cloud",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Azure Bastion"
+                    "name": "D. Azure Bastion",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1108,20 +1108,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. network security groups (NSGs)"
+                    "name": "A. network security groups (NSGs)",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Azure AD Privileged Identity Management (PIM)"
+                    "name": "B. Azure AD Privileged Identity Management (PIM)",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. conditional access policies"
+                    "name": "C. conditional access policies",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. resource locks"
+                    "name": "D. resource locks",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1151,20 +1151,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Attack simulator"
+                    "name": "A. Attack simulator",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Reports"
+                    "name": "B. Reports",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Hunting"
+                    "name": "C. Hunting",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Incidents"
+                    "name": "D. Incidents",
+                    "value": "D"
                 }
             ],
             "answer": "B",
@@ -1176,20 +1176,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. 15 days"
+                    "name": "A. 15 days",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. 30 days"
+                    "name": "B. 30 days",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. 90 days"
+                    "name": "C. 90 days",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. 180 days"
+                    "name": "D. 180 days",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1201,20 +1201,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Azure Files"
+                    "name": "A. Azure Files",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Azure SQL Managed Instances"
+                    "name": "B. Azure SQL Managed Instances",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Azure virtual machines"
+                    "name": "C. Azure virtual machines",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Azure App Service"
+                    "name": "D. Azure App Service",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1226,24 +1226,24 @@
             "numOfOptions": 5,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. to discover and control the use of shadow IT"
+                    "name": "A. to discover and control the use of shadow IT",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. to provide secure connections to Azure virtual machines"
+                    "name": "B. to provide secure connections to Azure virtual machines",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. to protect sensitive information hosted anywhere in the cloud"
+                    "name": "C. to protect sensitive information hosted anywhere in the cloud",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. to provide pass-through authentication to on-premises applications"
+                    "name": "D. to provide pass-through authentication to on-premises applications",
+                    "value": "D"
                 },
                 {
-                    "name": "E",
-                    "value": "E. to prevent data leaks to noncompliant apps and limit access to regulated data"
+                    "name": "E. to prevent data leaks to noncompliant apps and limit access to regulated data",
+                    "value": "E"
                 }
             ],
             "answer": "ACE",
@@ -1264,20 +1264,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. PowerShell remoting"
+                    "name": "A. PowerShell remoting",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. the Azure portal"
+                    "name": "B. the Azure portal",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. the Remote Desktop Connection client"
+                    "name": "C. the Remote Desktop Connection client",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. an SSH client"
+                    "name": "D. an SSH client",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1289,20 +1289,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Microsoft Defender for Cloud Apps"
+                    "name": "A. Microsoft Defender for Cloud Apps",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Microsoft Defender for Identity"
+                    "name": "B. Microsoft Defender for Identity",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Microsoft Defender for SQL"
+                    "name": "C. Microsoft Defender for SQL",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Microsoft Defender for Office 365"
+                    "name": "D. Microsoft Defender for Office 365",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -1314,20 +1314,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Microsoft Defender for Storage"
+                    "name": "A. Microsoft Defender for Storage",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Microsoft Defender for SQL"
+                    "name": "B. Microsoft Defender for SQL",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Microsoft Defender for Endpoint"
+                    "name": "C. Microsoft Defender for Endpoint",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Microsoft Defender for IoT"
+                    "name": "D. Microsoft Defender for IoT",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1348,24 +1348,24 @@
             "numOfOptions": 5,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. a virtual network subnet"
+                    "name": "A. a virtual network subnet",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. a network interface"
+                    "name": "B. a network interface",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. a resource group"
+                    "name": "C. a resource group",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. a virtual network"
+                    "name": "D. a virtual network",
+                    "value": "D"
                 },
                 {
-                    "name": "E",
-                    "value": "E. an Azure App Service web app"
+                    "name": "E. an Azure App Service web app",
+                    "value": "E"
                 }
             ],
             "answer": "AB",
@@ -1377,20 +1377,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. to restrict unauthenticated access to Microsoft 365"
+                    "name": "A. to restrict unauthenticated access to Microsoft 365",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. to restrict Microsoft Teams chats between certain groups within an organization"
+                    "name": "B. to restrict Microsoft Teams chats between certain groups within an organization",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. to restrict Microsoft Exchange Online email between certain groups within an organization"
+                    "name": "C. to restrict Microsoft Exchange Online email between certain groups within an organization",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. to restrict data sharing to external email recipients"
+                    "name": "D. to restrict data sharing to external email recipients",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1402,20 +1402,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Microsoft Defender for Cloud"
+                    "name": "A. Microsoft Defender for Cloud",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Azure Blueprints"
+                    "name": "B. Azure Blueprints",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Microsoft Sentinel"
+                    "name": "C. Microsoft Sentinel",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Azure Policy"
+                    "name": "D. Azure Policy",
+                    "value": "D"
                 }
             ],
             "answer": "B",
@@ -1445,20 +1445,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Audit"
+                    "name": "A. Audit",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Compliance Manager"
+                    "name": "B. Compliance Manager",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Content Search"
+                    "name": "C. Content Search",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Alerts"
+                    "name": "D. Alerts",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1479,20 +1479,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. retention policies"
+                    "name": "A. retention policies",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. data loss prevention (DLP) policies"
+                    "name": "B. data loss prevention (DLP) policies",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. conditional access policies"
+                    "name": "C. conditional access policies",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. information barriers"
+                    "name": "D. information barriers",
+                    "value": "D"
                 }
             ],
             "answer": "B",
@@ -1513,20 +1513,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Create an eDiscovery hold."
+                    "name": "A. Create an eDiscovery hold.",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Run Express Analysis."
+                    "name": "B. Run Express Analysis.",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Configure attorney-client privilege detection."
+                    "name": "C. Configure attorney-client privilege detection.",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Export and download results."
+                    "name": "D. Export and download results.",
+                    "value": "D"
                 }
             ],
             "answer": "A",
@@ -1538,20 +1538,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Microsoft Service Trust Portal"
+                    "name": "A. Microsoft Service Trust Portal",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Compliance Manager"
+                    "name": "B. Compliance Manager",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Microsoft 365 compliance center"
+                    "name": "C. Microsoft 365 compliance center",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Microsoft Support"
+                    "name": "D. Microsoft Support",
+                    "value": "D"
                 }
             ],
             "answer": "A",
@@ -1563,20 +1563,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. computers from zero-day exploits"
+                    "name": "A. computers from zero-day exploits",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. users from phishing attempts"
+                    "name": "B. users from phishing attempts",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. files from malware and viruses"
+                    "name": "C. files from malware and viruses",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. sensitive data from being exposed to unauthorized users"
+                    "name": "D. sensitive data from being exposed to unauthorized users",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -1588,20 +1588,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. how long files must be preserved"
+                    "name": "A. how long files must be preserved",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. when to archive an email message"
+                    "name": "B. when to archive an email message",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. which watermark to add to files"
+                    "name": "C. which watermark to add to files",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. where to store files"
+                    "name": "D. where to store files",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1640,20 +1640,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Display policy tips to users who are about to violate your organization's policies."
+                    "name": "A. Display policy tips to users who are about to violate your organization's policies.",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Enable disk encryption on endpoints."
+                    "name": "B. Enable disk encryption on endpoints.",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Protect documents in Microsoft OneDrive that contain sensitive information."
+                    "name": "C. Protect documents in Microsoft OneDrive that contain sensitive information.",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Apply security baselines to devices."
+                    "name": "D. Apply security baselines to devices.",
+                    "value": "D"
                 }
             ],
             "answer": "AC",
@@ -1683,20 +1683,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Content Search"
+                    "name": "A. Content Search",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. sensitivity labels"
+                    "name": "B. sensitivity labels",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. retention policies"
+                    "name": "C. retention policies",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. eDiscovery"
+                    "name": "D. eDiscovery",
+                    "value": "D"
                 }
             ],
             "answer": "B",
@@ -1744,24 +1744,24 @@
             "numOfOptions": 5,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Devices at risk"
+                    "name": "A. Devices at risk",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Compliance Score"
+                    "name": "B. Compliance Score",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Service Health"
+                    "name": "C. Service Health",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. User Management"
+                    "name": "D. User Management",
+                    "value": "D"
                 },
                 {
-                    "name": "E",
-                    "value": "E. Users at risk"
+                    "name": "E. Users at risk",
+                    "value": "E"
                 }
             ],
             "answer": "AE",
@@ -1773,20 +1773,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Azure role-based access control (Azure RBAC)"
+                    "name": "A. Azure role-based access control (Azure RBAC)",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Azure Active Directory (Azure AD) Privileged Identity Management (PIM)"
+                    "name": "B. Azure Active Directory (Azure AD) Privileged Identity Management (PIM)",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Azure Active Directory (Azure AD) Identity Protection"
+                    "name": "C. Azure Active Directory (Azure AD) Identity Protection",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. a conditional access policy"
+                    "name": "D. a conditional access policy",
+                    "value": "D"
                 }
             ],
             "answer": "D",
@@ -1807,20 +1807,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. a retention policy"
+                    "name": "A. a retention policy",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. an insider risk policy"
+                    "name": "B. an insider risk policy",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. a data loss prevention (DLP) policy"
+                    "name": "C. a data loss prevention (DLP) policy",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. a sensitivity label policy"
+                    "name": "D. a sensitivity label policy",
+                    "value": "D"
                 }
             ],
             "answer": "A",
@@ -1832,20 +1832,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. the Microsoft 365 Compliance center"
+                    "name": "A. the Microsoft 365 Compliance center",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. the Microsoft Endpoint Manager admin center"
+                    "name": "B. the Microsoft Endpoint Manager admin center",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. the Microsoft 365 admin center"
+                    "name": "C. the Microsoft 365 admin center",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. the Microsoft 365 Defender portal"
+                    "name": "D. the Microsoft 365 Defender portal",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1857,20 +1857,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. A policy initiative that includes multiple policies."
+                    "name": "A. A policy initiative that includes multiple policies.",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. A dictionary of words that are not allowed in company documents."
+                    "name": "B. A dictionary of words that are not allowed in company documents.",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. A grouping of controls from a specific regulation, standard or policy."
+                    "name": "C. A grouping of controls from a specific regulation, standard or policy.",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Recommended guidance to help organizations align with their corporate standards."
+                    "name": "D. Recommended guidance to help organizations align with their corporate standards.",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1882,20 +1882,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Microsoft Defender for Cloud Apps"
+                    "name": "A. Microsoft Defender for Cloud Apps",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Microsoft Defender for Endpoint"
+                    "name": "B. Microsoft Defender for Endpoint",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Microsoft Defender for Identity"
+                    "name": "C. Microsoft Defender for Identity",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Microsoft Defender for Office 365"
+                    "name": "D. Microsoft Defender for Office 365",
+                    "value": "D"
                 }
             ],
             "answer": "B",
@@ -1934,20 +1934,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. operating systems"
+                    "name": "A. operating systems",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. network controls"
+                    "name": "B. network controls",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. applications"
+                    "name": "C. applications",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. accounts and identities"
+                    "name": "D. accounts and identities",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -1977,20 +1977,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. user actions"
+                    "name": "A. user actions",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. group membership"
+                    "name": "B. group membership",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. device compliance"
+                    "name": "C. device compliance",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. user risk"
+                    "name": "D. user risk",
+                    "value": "D"
                 }
             ],
             "answer": "C",
@@ -2002,20 +2002,20 @@
             "numOfOptions": 4,
             "options": [
                 {
-                    "name": "A",
-                    "value": "A. Microsoft manages privacy settings for its customers."
+                    "name": "A. Microsoft manages privacy settings for its customers.",
+                    "value": "A"
                 },
                 {
-                    "name": "B",
-                    "value": "B. Microsoft respects the local privacy laws that are applicable to its customers."
+                    "name": "B. Microsoft respects the local privacy laws that are applicable to its customers.",
+                    "value": "B"
                 },
                 {
-                    "name": "C",
-                    "value": "C. Microsoft uses hosted customer email and chat data for targeted advertising."
+                    "name": "C. Microsoft uses hosted customer email and chat data for targeted advertising.",
+                    "value": "C"
                 },
                 {
-                    "name": "D",
-                    "value": "D. Microsoft does not collect any customer data."
+                    "name": "D. Microsoft does not collect any customer data.",
+                    "value": "D"
                 }
             ],
             "answer": "A",
