@@ -7,6 +7,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0000200002.png' />",
             "reference": "<span></span>"
         },
@@ -16,6 +17,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0000300002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/</span>"
         },
@@ -25,6 +27,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0000400002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/security/fundamentals/customer-lockbox-overview</span>"
         },
@@ -34,6 +37,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0000500002.png' />",
             "reference": "<span></span>"
         },
@@ -43,6 +47,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0000600001.png' />",
             "reference": "<span>Federation is a collection of domains that have established trust.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-fed</span>"
         },
@@ -52,6 +57,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0000700001.png' />",
             "reference": "<span>Box 1: Yes -<br/>System updates reduces security vulnerabilities, and provide a more stable environment for end users. Not applying updates leaves unpatched vulnerabilities and results in environments that are susceptible to attacks.<br/><br/>Box 2: Yes -<br/><br/>Box 3: Yes -<br/>If you only use a password to authenticate a user, it leaves an attack vector open. With MFA enabled, your accounts are more secure.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls</span>"
         },
@@ -78,6 +84,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager?view=o365-worldwide https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-calculation?view=o365-worldwide</span>"
         },
         {
@@ -103,6 +110,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span>To on-board Azure Sentinel, you first need to connect to your security sources. Azure Sentinel comes with a number of connectors for Microsoft solutions, including Microsoft 365 Defender solutions, and Microsoft 365 sources, including Office 365, Azure AD, Microsoft Defender for Identity, and Microsoft Cloud App<br/>Security, etc.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/sentinel/overview</span>"
         },
         {
@@ -128,6 +136,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>The Microsoft Service Trust Portal contains details about Microsoft's implementation of controls and processes that protect our cloud services and the customer data therein.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-service-trust-portal?view=o365-worldwide</span>"
         },
         {
@@ -153,6 +162,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -161,6 +171,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0001000002.png' />",
             "reference": "<span>Box 1: Yes -<br/><br/>Box 2: Yes -<br/><br/>Box 3: No -<br/>The Zero Trust model does not assume that everything behind the corporate firewall is safe, the Zero Trust model assumes breach and verifies each request as though it originated from an uncontrolled network.<br/>Reference:<br/>https://docs.microsoft.com/en-us/security/zero-trust/</span>"
         },
@@ -170,6 +181,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0001100002.png' />",
             "reference": "<span>Reference:<br/>https://privacy.microsoft.com/en-US/</span>"
         },
@@ -179,6 +191,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0001200002.png' />",
             "reference": "<span></span>"
         },
@@ -188,6 +201,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0001300002.jpg' />",
             "reference": "<span>Box 1: Yes -<br/>A certificate is required that provides a private and a public key.<br/><br/>Box 2: Yes -<br/>The public key is used to validate the private key that is associated with a digital signature.<br/><br/>Box 3: Yes -<br/>The private key, or rather the password to the private key, validates the identity of the signer.<br/>Reference:<br/>https://support.microsoft.com/en-us/office/obtain-a-digital-certificate-and-create-a-digital-signature-e3d9d813-3305-4164-a820-2e063d86e512 https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/organization-administration/electronic-signature-overview</span>"
         },
@@ -197,6 +211,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0001400002.png' />",
             "reference": "<span></span>"
         },
@@ -206,6 +221,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0001500002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/app-service/overview-authentication-authorization</span>"
         },
@@ -215,6 +231,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0001600001.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/external-identities/what-is-b2b</span>"
         },
@@ -245,6 +262,7 @@
                 }
             ],
             "answer": "AE",
+            "multi_select": true,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview</span>"
         },
         {
@@ -253,6 +271,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0001700002.png' />",
             "reference": "<span></span>"
         },
@@ -262,6 +281,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0001800002.png' />",
             "reference": "<span></span>"
         },
@@ -271,6 +291,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0001900001.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/cloud-services-security-baseline</span>"
         },
@@ -297,6 +318,7 @@
                 }
             ],
             "answer": "B",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest</span>"
         },
         {
@@ -326,6 +348,7 @@
                 }
             ],
             "answer": "BCD",
+            "multi_select": true,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/security/zero-trust/</span>"
         },
         {
@@ -334,6 +357,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0002100001.jpg' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/security-center/secure-score-access-and-track</span>"
         },
@@ -343,6 +367,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0002200002.jpg' />",
             "reference": "<span>Box 1: Preventative -<br/>Preventative actions address specific risks. For example, protecting information at rest using encryption is a preventative action against attacks and breaches.<br/>Separation of duties is a preventative action to manage conflict of interest and guard against fraud.<br/><br/>Box 2: Detective -<br/>Detective actions actively monitor systems to identify irregular conditions or behaviors that represent risk, or that can be used to detect intrusions or breaches.<br/>Examples include system access auditing and privileged administrative actions. Regulatory compliance audits are a type of detective action used to find process issues.<br/><br/>Box 3: Corrective -<br/>Corrective actions try to keep the adverse effects of a security incident to a minimum, take corrective action to reduce the immediate effect, and reverse the damage if possible. Privacy incident response is a corrective action to limit damage and restore systems to an operational state after a breach.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-calculation</span>"
         },
@@ -352,6 +377,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0002300002.jpg' />",
             "reference": "<span>Sign in to Compliance Manager -<br/>1. Go to the Microsoft Purview compliance portal and sign in with your Microsoft 365 global administrator account.<br/>2. Select Compliance Manager on the left navigation pane. You'll arrive at your Compliance Manager dashboard.<br/>The direct link to access Compliance Manager is https://compliance.microsoft.com/compliancemanager<br/>Note: Microsoft 365 compliance is now called Microsoft Purview and the solutions within the compliance area have been rebranded.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager-setup</span>"
         },
@@ -361,6 +387,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0002400002.jpg' />",
             "reference": "<span>Box 1: Yes -<br/>Microsoft Secure Score has updated improvement actions to support security defaults in Azure Active Directory, which make it easier to help protect your organization with pre-configured security settings for common attacks.<br/>If you turn on security defaults, you'll be awarded full points for the following improvement actions:<br/>Ensure all users can complete multi-factor authentication for secure access (9 points)<br/>Require MFA for administrative roles (10 points)<br/>Enable policy to block legacy authentication (7 points)<br/><br/>Box 2: Yes -<br/>Each improvement action is worth 10 points or less, and most are scored in a binary fashion. If you implement the improvement action, like create a new policy or turn on a specific setting, you get 100% of the points. For other improvement actions, points are given as a percentage of the total configuration.<br/>Note: Following the Secure Score recommendations can protect your organization from threats. From a centralized dashboard in the Microsoft 365 Defender portal, organizations can monitor and work on the security of their Microsoft 365 identities, apps, and devices.<br/><br/>Box 3: Yes -<br/>Microsoft Secure Score is a measurement of an organization's security posture, with a higher number indicating more improvement actions taken.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/defender/microsoft-secure-score</span>"
         },
@@ -387,6 +414,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common</span>"
         },
         {
@@ -412,6 +440,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect</span>"
         },
         {
@@ -420,6 +449,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0002700001.png' />",
             "reference": "<span>Box 1: Yes -<br/>Azure AD supports custom roles.<br/><br/>Box 2: Yes -<br/>Global Administrator has access to all administrative features in Azure Active Directory.<br/><br/>Box 3: No -<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/roles/concept-understand-roles https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference</span>"
         },
@@ -429,6 +459,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0002800002.png' />",
             "reference": "<span>Box 1: No -<br/>Azure Active Directory (Azure AD) is a cloud-based user identity and authentication service.<br/><br/>Box 2: Yes -<br/>Microsoft 365 uses Azure Active Directory (Azure AD). Azure Active Directory (Azure AD) is included with your Microsoft 365 subscription.<br/><br/>Box 3: Yes -<br/>Azure Active Directory (Azure AD) is a cloud-based user identity and authentication service.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/enterprise/about-microsoft-365-identity?view=o365-worldwide</span>"
         },
@@ -438,6 +469,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0002900002.png' />",
             "reference": "<span>Biometrics templates are stored locally on a device.<br/>Reference:<br/>https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-overview</span>"
         },
@@ -464,6 +496,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span>Azure AD Password Protection detects and blocks known weak passwords and their variants, and can also block additional weak terms that are specific to your organization.<br/>With Azure AD Password Protection, default global banned password lists are automatically applied to all users in an Azure AD tenant. To support your own business and security needs, you can define entries in a custom banned password list.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad-on-premises</span>"
         },
         {
@@ -489,6 +522,7 @@
                 }
             ],
             "answer": "A",
+            "multi_select": false,
             "reference": "<span>Azure Active Directory (Azure AD) access reviews enable organizations to efficiently manage group memberships, access to enterprise applications, and role assignments.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview</span>"
         },
         {
@@ -497,6 +531,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0003200001.png' />",
             "reference": "<span>Multi-factor authentication is a process where a user is prompted during the sign-in process for an additional form of identification, such as to enter a code on their cellphone or to provide a fingerprint scan.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks</span>"
         },
@@ -506,6 +541,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0003300002.png' />",
             "reference": "<span>Box 1: Yes -<br/><br/>Box 2: No -<br/>Conditional Access policies are enforced after first-factor authentication is completed.<br/><br/>Box 3: Yes -<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview</span>"
         },
@@ -515,6 +551,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0003400002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/defender-for-identity/what-is</span>"
         },
@@ -524,6 +561,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0003500002.png' />",
             "reference": "<span>Microsoft Defender for Identity  is a cloud-based security solution that leverages your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.<br/>Reference:<br/>https://docs.microsoft.com/en-us/defender-for-identity/what-is</span>"
         },
@@ -533,6 +571,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0003600002.png' />",
             "reference": "<span>Azure Active Directory (Azure AD) is a cloud-based user identity and authentication service.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/enterprise/about-microsoft-365-identity?view=o365-worldwide</span>"
         },
@@ -559,6 +598,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>Azure AD Privileged Identity Management (PIM) provides just-in-time privileged access to Azure AD and Azure resources<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure</span>"
         },
         {
@@ -588,6 +628,7 @@
                 }
             ],
             "answer": "ABD",
+            "multi_select": true,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-methods</span>"
         },
         {
@@ -613,6 +654,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers</span>"
         },
         {
@@ -621,6 +663,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0003800002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview</span>"
         },
@@ -630,6 +673,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0003900002.png' />",
             "reference": "<span>Box 1: Yes -<br/>Conditional access policies can be applied to all users<br/><br/>Box 2: No -<br/>Conditional access policies are applied after first-factor authentication is completed.<br/><br/>Box 3: Yes -<br/>Users with devices of specific platforms or marked with a specific state can be used when enforcing Conditional Access policies.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview</span>"
         },
@@ -639,6 +683,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0004000002.png' />",
             "reference": "<span>When you register an application through the Azure portal, an application object and service principal are automatically created in your home directory or tenant.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal</span>"
         },
@@ -669,6 +714,7 @@
                 }
             ],
             "answer": "ABC",
+            "multi_select": true,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-how-it-works-authentication</span>"
         },
         {
@@ -677,6 +723,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0004200002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults</span>"
         },
@@ -703,6 +750,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure</span>"
         },
         {
@@ -711,6 +759,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0004400001.jpg' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa</span>"
         },
@@ -741,6 +790,7 @@
                 }
             ],
             "answer": "BC",
+            "multi_select": true,
             "reference": "<span>Security defaults make it easy to protect your organization with the following preconfigured security settings:<br/>✑ Requiring all users to register for Azure AD Multi-Factor Authentication.<br/>✑ Requiring administrators to do multi-factor authentication.<br/>✑ Blocking legacy authentication protocols.<br/>✑ Requiring users to do multi-factor authentication when necessary.<br/>✑ Protecting privileged activities like access to the Azure portal.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults</span>"
         },
         {
@@ -766,6 +816,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span>When you register an application through the Azure portal, an application object and service principal are automatically created in your home directory or tenant.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal</span>"
         },
         {
@@ -795,6 +846,7 @@
                 }
             ],
             "answer": "CDE",
+            "multi_select": true,
             "reference": "<span></span>"
         },
         {
@@ -803,6 +855,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0004600002.jpg' />",
             "reference": "<span>Box 1: know -<br/>Multifactor authentication combines two or more independent credentials: what the user knows, such as a password; what the user has, such as a security token; and what the user is, by using biometric verification methods.<br/>Reference:<br/>https://www.techtarget.com/searchsecurity/definition/multifactor-authentication-MFA</span>"
         },
@@ -812,6 +865,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0004700002.jpg' />",
             "reference": "<span>Box 1: No -<br/>The Microsoft Authenticator app helps you sign in to your accounts when you're using two-factor verification. Two-factor verification helps you to use your accounts more securely because passwords can be forgotten, stolen, or compromised. Two-factor verification uses a second factor like your phone to make it harder for other people to break in to your account.<br/><br/>Box 2: Yes -<br/>In Windows 10, Windows Hello for Business replaces passwords with strong two-factor authentication on devices. This authentication consists of a new type of user credential that is tied to a device and uses a biometric or PIN.<br/><br/>Box 3: No -<br/>Windows Hello credentials are based on certificate or asymmetrical key pair. Windows Hello credentials can be bound to the device, and the token that is obtained using the credential is also bound to the device.<br/>Reference:<br/>https://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-overview</span>"
         },
@@ -821,6 +875,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0004800002.jpg' />",
             "reference": "<span>Managed identities provide an identity for applications to use when connecting to resources that support Azure Active Directory (Azure AD) authentication.<br/>Here are some of the benefits of using managed identities:<br/>You don't need to manage credentials. Credentials aren't even accessible to you.<br/>You can use managed identities to authenticate to any resource that supports Azure AD authentication, including your own applications.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/overview</span>"
         },
@@ -830,6 +885,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0004900002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/defender/incidents-overview?view=o365-worldwide</span>"
         },
@@ -856,6 +912,7 @@
                 }
             ],
             "answer": "AD",
+            "multi_select": true,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?view=o365-worldwide</span>"
         },
         {
@@ -864,6 +921,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0005100001.png' />",
             "reference": "<span>Box 1: Azure Firewall -<br/>Azure Firewall provide Source Network Address Translation and Destination Network Address Translation.<br/><br/>Box 2: Azure Bastion -<br/>Azure Bastion provides secure and seamless RDP/SSH connectivity to your virtual machines directly from the Azure portal over TLS.<br/>Box 3: Network security group (NSG)<br/>You can use an Azure network security group to filter network traffic to and from Azure resources in an Azure virtual network.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/networking/fundamentals/networking-overview https://docs.microsoft.com/en-us/azure/bastion/bastion-overview https://docs.microsoft.com/en-us/azure/firewall/features https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview</span>"
         },
@@ -873,6 +931,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0005200002.png' />",
             "reference": "<span>Microsoft Azure Sentinel is a scalable, cloud-native, security information event management (SIEM) and security orchestration automated response (SOAR) solution.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/sentinel/overview</span>"
         },
@@ -882,6 +941,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0005300002.png' />",
             "reference": "<span>Box 1: Yes -<br/>Microsoft Defender for Cloud provides security alerts and advanced threat protection for virtual machines, SQL databases, containers, web applications, your network, your storage, and more<br/><br/>Box 2: Yes -<br/>Cloud security posture management (CSPM) is available for free to all Azure users.<br/><br/>Box 3: Yes -<br/>Azure Security Center is a unified infrastructure security management system that strengthens the security posture of your data centers, and provides advanced threat protection across your hybrid workloads in the cloud - whether they're in Azure or not - as well as on premises.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/security-center/azure-defender https://docs.microsoft.com/en-us/azure/security-center/defender-for-storage-introduction https://docs.microsoft.com/en-us/azure/security-center/security-center-introduction</span>"
         },
@@ -891,6 +951,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0005400002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/defender/threat-analytics?view=o365-worldwide</span>"
         },
@@ -900,6 +961,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0005500002.jpg' />",
             "reference": "<span>You can use an Azure network security group to filter network traffic to and from Azure resources in an Azure virtual network. A network security group contains security rules that allow or deny inbound network traffic to, or outbound network traffic from, several types of Azure resources. For each rule, you can specify source and destination, port, and protocol.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview</span>"
         },
@@ -909,6 +971,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0005600002.jpg' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune https://docs.microsoft.com/en-us/mem/intune/fundamentals/what-is-device-management</span>"
         },
@@ -918,6 +981,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0005800001.jpg' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/bastion/bastion-overview https://docs.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal</span>"
         },
@@ -944,6 +1008,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span>Network protection helps protect devices from Internet-based events. Network protection is an attack surface reduction capability.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/network-protection?view=o365-worldwide</span>"
         },
         {
@@ -952,6 +1017,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0005900002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/sentinel/overview</span>"
         },
@@ -982,6 +1048,7 @@
                 }
             ],
             "answer": "DE",
+            "multi_select": true,
             "reference": "<span></span>"
         },
         {
@@ -1007,6 +1074,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/2-what-is-defense-in-depth</span>"
         },
         {
@@ -1015,6 +1083,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0006100002.png' />",
             "reference": "<span></span>"
         },
@@ -1041,6 +1110,7 @@
                 }
             ],
             "answer": "A",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-advanced-threat-protection-service-description</span>"
         },
         {
@@ -1066,6 +1136,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/defender/eval-overview?view=o365-worldwide</span>"
         },
         {
@@ -1091,6 +1162,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -1099,6 +1171,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0006300002.png' />",
             "reference": "<span></span>"
         },
@@ -1125,6 +1198,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -1133,6 +1207,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0006400002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security</span>"
         },
@@ -1142,6 +1217,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0006500002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview</span>"
         },
@@ -1168,6 +1244,7 @@
                 }
             ],
             "answer": "B",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/reports-and-insights-in-security-and-compliance?view=o365-worldwide</span>"
         },
         {
@@ -1193,6 +1270,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -1218,6 +1296,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>Azure Bastion provides secure and seamless RDP/SSH connectivity to your virtual machines directly from the Azure portal over TLS.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/bastion/bastion-overview</span>"
         },
         {
@@ -1247,6 +1326,7 @@
                 }
             ],
             "answer": "ACE",
+            "multi_select": true,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps</span>"
         },
         {
@@ -1255,6 +1335,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0006800002.jpg' />",
             "reference": "<span>Box 1: vulnerabilities -<br/>Microsoft 365 Defender portal is the new home for monitoring and managing security across your identities, data, devices, and apps, you will need to access various portals for certain specialized tasks.<br/>It used to monitor and respond to threat activity and strengthen security posture across your identities, email, data, endpoints, and apps with Microsoft 365<br/><br/>Defender -<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/defender/portals</span>"
         },
@@ -1281,6 +1362,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>You can create an RDP connection to a Windows VM using Azure Bastion.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/bastion/bastion-connect-vm-rdp-windows</span>"
         },
         {
@@ -1306,6 +1388,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span>Attack simulation training in Microsoft Defender for Office 365 Plan 2 or Microsoft 365 E5 lets you run benign cyberattack simulations in your organization. These simulations test your security policies and practices, as well as train your employees to increase their awareness and decrease their susceptibility to attacks.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/attack-simulation-training</span>"
         },
         {
@@ -1331,6 +1414,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>The Alerts queue shows the current set of alerts. You get to the alerts queue from Incidents &amp; alerts &gt; Alerts on the quick launch of the Microsoft 365 Defender portal.<br/>Alerts from different Microsoft security solutions like Microsoft Defender for Endpoint, Microsoft Defender for Office 365, and Microsoft 365 Defender appear here.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/defender/investigate-alerts</span>"
         },
         {
@@ -1339,6 +1423,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0007000002.jpg' />",
             "reference": "<span>Box 1: No -<br/>Microsoft Sentinel data connectors are available for non-Microsoft services like Amazon Web Services.<br/><br/>Box 2: Yes -<br/>Once you have connected your data sources to Microsoft Sentinel, you can visualize and monitor the data using the Microsoft Sentinel adoption of Azure Monitor<br/>Workbooks, which provides versatility in creating custom dashboards. While the Workbooks are displayed differently in Microsoft Sentinel, it may be useful for you to see how to create interactive reports with Azure Monitor Workbooks. Microsoft Sentinel allows you to create custom workbooks across your data, and also comes with built-in workbook templates to allow you to quickly gain insights across your data as soon as you connect a data source.<br/><br/>Box 3: Yes -<br/>To help security analysts look proactively for new anomalies that weren't detected by your security apps or even by your scheduled analytics rules, Microsoft<br/>Sentinel's built-in hunting queries guide you into asking the right questions to find issues in the data you already have on your network.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/sentinel/data-connectors-reference https://docs.microsoft.com/en-us/azure/sentinel/monitor-your-data https://docs.microsoft.com/en-us/azure/sentinel/hunting</span>"
         },
@@ -1369,6 +1454,7 @@
                 }
             ],
             "answer": "AB",
+            "multi_select": true,
             "reference": "<span>Association of network security groups<br/>You can associate a network security group with virtual machines, NICs, and subnets, depending on the deployment model you use.<br/>Reference:<br/>https://aviatrix.com/learn-center/cloud-security/create-network-security-groups-in-azure/</span>"
         },
         {
@@ -1394,6 +1480,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide</span>"
         },
         {
@@ -1419,6 +1506,7 @@
                 }
             ],
             "answer": "B",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/governance/blueprints/overview</span>"
         },
         {
@@ -1427,6 +1515,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0007300002.png' />",
             "reference": "<span>Box 1: Yes -<br/>The MailItemsAccessed event is a mailbox auditing action and is triggered when mail data is accessed by mail protocols and mail clients.<br/><br/>Box 2: No -<br/>Basic Audit retains audit records for 90 days.<br/>Advanced Audit retains all Exchange, SharePoint, and Azure Active Directory audit records for one year. This is accomplished by a default audit log retention policy that retains any audit record that contains the value of Exchange, SharePoint, or AzureActiveDirectory for the Workload property (which indicates the service in which the activity occurred) for one year.<br/><br/>Box 3: yes -<br/>Advanced Audit in Microsoft 365 provides high-bandwidth access to the Office 365 Management Activity API.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/advanced-audit?view=o365-worldwide https://docs.microsoft.com/en-us/microsoft-365/compliance/auditing-solutions-overview?view=o365-worldwide#licensing-requirements https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/ microsoft-365-security-compliance-licensing-guidance#advanced-audit</span>"
         },
@@ -1436,6 +1525,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0007500002.png' />",
             "reference": "<span>Box 1: No -<br/><br/>Box 2: Yes -<br/>Leaked Credentials indicates that the user's valid credentials have been leaked.<br/><br/>Box 3: Yes -<br/>Multi-Factor Authentication can be required based on conditions, one of which is user risk.<br/>Reference:<br/>https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks https://docs.microsoft.com/en-us/azure/active-directory/authentication/tutorial-risk-based-sspr-mfa</span>"
         },
@@ -1462,6 +1552,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>The Content Search tool in the Security &amp; Compliance Center can be used to quickly find email in Exchange mailboxes, documents in SharePoint sites and<br/>OneDrive locations, and instant messaging conversations in Skype for Business.<br/>The first step is to starting using the Content Search tool to choose content locations to search and configure a keyword query to search for specific items.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/search-for-content?view=o365-worldwide</span>"
         },
         {
@@ -1470,6 +1561,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0007700002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/microsoft-365-compliance-center?view=o365-worldwide</span>"
         },
@@ -1496,6 +1588,7 @@
                 }
             ],
             "answer": "B",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp?view=o365-worldwide</span>"
         },
         {
@@ -1504,6 +1597,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0007800002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/security/fundamentals/customer-lockbox-overview</span>"
         },
@@ -1530,6 +1624,7 @@
                 }
             ],
             "answer": "A",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-core-ediscovery?view=o365-worldwide</span>"
         },
         {
@@ -1555,6 +1650,7 @@
                 }
             ],
             "answer": "A",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-service-trust-portal?view=o365-worldwide</span>"
         },
         {
@@ -1580,6 +1676,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide</span>"
         },
         {
@@ -1605,6 +1702,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels?view=o365-worldwide</span>"
         },
         {
@@ -1613,6 +1711,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0008100001.png' />",
             "reference": "<span>Box 1: No -<br/>Advanced Audit helps organizations to conduct forensic and compliance investigations by increasing audit log retention.<br/><br/>Box 2: No -<br/><br/>Box 3: Yes -<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/advanced-audit?view=o365-worldwide</span>"
         },
@@ -1622,6 +1721,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0008200002.png' />",
             "reference": "<span></span>"
         },
@@ -1631,6 +1731,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0008300002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-sensitivity-labels?view=o365-worldwide</span>"
         },
@@ -1657,6 +1758,7 @@
                 }
             ],
             "answer": "AC",
+            "multi_select": true,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp?view=o365-worldwide</span>"
         },
         {
@@ -1665,6 +1767,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0008400002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-score-calculation?view=o365-worldwide#how-compliance-manager-continuously- assesses-controls</span>"
         },
@@ -1674,6 +1777,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0008600001.png' />",
             "reference": "<span>Box 1: Yes -<br/>You can use sensitivity labels to provide protection settings that include encryption of emails and documents to prevent unauthorized people from accessing this data.<br/><br/>Box 2: Yes -<br/>You can use sensitivity labels to mark the content when you use Office apps, by adding watermarks, headers, or footers to documents that have the label applied.<br/><br/>Box 3: Yes -<br/>You can use sensitivity labels to mark the content when you use Office apps, by adding headers, or footers to email that have the label applied.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels?view=o365-worldwide</span>"
         },
@@ -1700,6 +1804,7 @@
                 }
             ],
             "answer": "B",
+            "multi_select": false,
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide</span>"
         },
         {
@@ -1708,6 +1813,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0008800001.jpg' />",
             "reference": "<span>Box 1: No -<br/>Compliance Manager tracks Microsoft managed controls, customer-managed controls, and shared controls.<br/><br/>Box 2: Yes -<br/><br/>Box 3: Yes -<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/compliance-manager?view=o365-worldwide</span>"
         },
@@ -1717,6 +1823,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0008900002.jpg' />",
             "reference": "<span>Box 1: No -<br/>Phishing scams are external threats.<br/><br/>Box 2: Yes -<br/>Insider risk management is a compliance solution in Microsoft 365.<br/><br/>Box 3: Yes -<br/>Insider risk management helps minimize internal risks from users. These include:<br/>✑ Leaks of sensitive data and data spillage<br/>✑ Confidentiality violations<br/>✑ Intellectual property (IP) theft<br/>✑ Fraud<br/>✑ Insider trading<br/>✑ Regulatory compliance violations<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management?view=o365-worldwide https://docs.microsoft.com/en-us/microsoft-365/compliance/microsoft-365-compliance-center?view=o365-worldwide</span>"
         },
@@ -1726,6 +1833,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0009100002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/azure/governance/policy/overview</span>"
         },
@@ -1735,6 +1843,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0009200002.png' />",
             "reference": "<span>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management?view=o365-worldwide</span>"
         },
@@ -1765,6 +1874,7 @@
                 }
             ],
             "answer": "AE",
+            "multi_select": true,
             "reference": "<span>A: The Devices at risk card includes a View details button. Selecting that button takes us to the Device inventory page, as shown in the following image<br/><img class=\"in-exam-image\" src=\"/assets/media/exam-media/04254/0009400001.jpg\"/><br/>E: The Microsoft 365 Defender portal cards fall into these categories:<br/>Identities- Monitor the identities in your organization and keep track of suspicious or risky behaviors. Here you can find the Users at risk card.<br/>Data - Help track user activity that could lead to unauthorized data disclosure.<br/>Devices - Get up-to-date information on alerts, breach activity, and other threats on your devices.<br/>Apps - Gain insight into how cloud apps are being used in your organization.<br/>Incorrect:<br/>Not C: The Service Health card can be reached from the Microsoft 365 admin center.<br/>Reference:<br/>https://docs.microsoft.com/en-us/microsoft-365/security/defender-business/mdb-respond-mitigate-threats</span>"
         },
         {
@@ -1790,6 +1900,7 @@
                 }
             ],
             "answer": "D",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -1798,6 +1909,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0009600001.png' />",
             "reference": "<span></span>"
         },
@@ -1824,6 +1936,7 @@
                 }
             ],
             "answer": "A",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -1849,6 +1962,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -1874,6 +1988,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -1899,6 +2014,7 @@
                 }
             ],
             "answer": "B",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -1907,6 +2023,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0009800002.png' />",
             "reference": "<span></span>"
         },
@@ -1916,6 +2033,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0009900002.png' />",
             "reference": "<span></span>"
         },
@@ -1925,6 +2043,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0010000002.png' />",
             "reference": "<span></span>"
         },
@@ -1951,6 +2070,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -1959,6 +2079,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0010100002.png' />",
             "reference": "<span></span>"
         },
@@ -1968,6 +2089,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0010200002.png' />",
             "reference": "<span></span>"
         },
@@ -1994,6 +2116,7 @@
                 }
             ],
             "answer": "C",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -2019,6 +2142,7 @@
                 }
             ],
             "answer": "A",
+            "multi_select": false,
             "reference": "<span></span>"
         },
         {
@@ -2027,6 +2151,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0010400001.png' />",
             "reference": "<span></span>"
         },
@@ -2036,6 +2161,7 @@
             "numOfOptions": 0,
             "options": [],
             "answer": "",
+            "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/sc-900/assets/media/exam-media/04254/0010500001.png' />",
             "reference": "<span></span>"
         }
