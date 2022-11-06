@@ -2611,7 +2611,6 @@
                 }
               
             ],
-            "type": "SS",
             "answer": "C",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-100_1.png' />",
@@ -5982,21 +5981,7 @@
             "question": "<p> HOTSPOT -<br/>Which node in the Azure portal should you use to assign a user the Reader role for a resource group? To answer, select the node in the answer area.<br/>NOTE: Each correct selection is worth one point.<br/>Hot Area:<br/><div class='image_container'><img alt='' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-224_1.jpg'/></div><br/></p>",
             "numOfOptions": 3,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
-            "options": [
-                {
-                    "name": " wl» Resource visualizer",
-                    "value": "A"
-                },
-                {
-                    "name": "Events",
-                    "value": "B"
-                },
-                {
-                    "name": "Settings",
-                    "value": "C"
-                }
-            ],
-            "type": "SS",
+            "options": [],
             "answer": "",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-226_1.jpg' />",
@@ -6462,21 +6447,7 @@
             "question": "<p> HOTSPOT -<br/>You need to manage Azure by using Azure Cloud Shell.<br/>Which Azure portal icon should you select? To answer, select the appropriate icon in the answer area.<br/>Hot Area:<br/><div class='image_container'><img alt='' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-246_1.jpg'/></div><br/></p>",
             "numOfOptions": 3,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
-            "options": [
-                {
-                    "name": "Microsoft Azure © Search resources, services, and docs",
-                    "value": "A"
-                },
-                {
-                    "name": "Dashboard v +",
-                    "value": "B"
-                },
-                {
-                    "name": "Create a resource",
-                    "value": "C"
-                }
-            ],
-            "type": "SS",
+            "options": [],
             "answer": "",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-246_2.jpg' />",
@@ -6844,7 +6815,6 @@
                     "value": "D"
                 }
             ],
-            "type": "SS",
             "answer": "",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-262_1.jpg' />",
