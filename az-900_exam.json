@@ -3597,7 +3597,7 @@
                     ]
                 }
             ],
-            "type": "SS",
+            "type": "MSS",
             "answer": ["C", "A", "B"],
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-145_2.png' />",
