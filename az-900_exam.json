@@ -6132,7 +6132,7 @@
                   ]
                 }
               ],
-            "type": "MS",
+            "type": "MSS",
             "answer": ["B", "A", "D", "C"],
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-232_2.jpg' />",
