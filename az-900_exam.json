@@ -10731,7 +10731,7 @@
                 ]
               },
             "type": "MS",
-            "answer": ["C", "F", "G"],
+            "answer": "CFG",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-417_2.jpg' />",
             "reference": "<p>Explanation:<br>\"Maximum Available Minutes\" is the total accumulated minutes during a billing month .<br>\"Downtime\" is the total accumulated minutes that are part of Maximum Available Minutes where a system is unavailable.<br/>\"Monthly Uptime Percentage\" for a service is calculated as Maximum Available Minutes less Downtime divided by Maximum Available Minutes x 100.<br/>Monthly Uptime Percentage is represented by the following formula:<br/>Monthly Uptime % = (Maximum Available Minutes-Downtime) / Maximum Available Minutes x 100.<br/>Reference:<br/>https://azure.microsoft.com/en-au/support/legal/sla/cloud-services/v1_0/<br/></br></br></p>"
