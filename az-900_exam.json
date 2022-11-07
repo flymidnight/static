@@ -1,5 +1,6 @@
 {
     "numOfQuestions": 385,
+    "lastUpdateDate": "2022-11-11",
     "content": [
         {
             "title": "Question 1 ( Mixed Questions )",
@@ -567,7 +568,7 @@
         {
             "title": "Question 28 ( Mixed Questions )",
             "question": "<p> DRAG DROP -<br>The company would like to develop a cloud solution by making use of Azure Government. Azure Government can only be used by certain types of clients to develop cloud solutions.<br>Which of the following are the types of customers that can make use of Azure Government in this situation? Answer by dragging the correct option from the list to the answer area.<br/>Select and Place:<br/><div class='image_container'><img alt='' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-21_1.png'/></div><br/></br></br></p>",
-            "numOfOptions": 7,
+            "numOfOptions": 6,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": [
                 {
@@ -593,10 +594,6 @@
                 {
                     "name": "A United States government entity.",
                     "value": "F"
-                },
-                {
-                    "name": "Answer",
-                    "value": "G"
                 }
             ],
             "type": "MS",
@@ -2891,9 +2888,27 @@
             "question": "<p> HOTSPOT -<br/>You plan to create an Azure virtual machine.<br/>You need to identify which storage service must be used to store the unmanaged data disks of the virtual machine.<br/>What should you identify? To answer, select the appropriate service in the answer area.<br/>Hot Area:<br/><div class='image_container'><img alt='' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-114_1.jpg'/></div><br/></p>",
             "numOfOptions": 0,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
-            "options": null,
-            "type": "",
-            "answer": "",
+            "options": [
+                {
+                  "name": "Containers",
+                  "value": "A"
+                },
+                {
+                  "name": "File shares",
+                  "value": "B"
+                },
+                {
+                  "name": "Tables",
+                  "value": "C"
+                },
+                {
+                  "name": "Queues",
+                  "value": "D"
+                }
+
+            ],
+            "type": "ISS",
+            "answer": "D",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-115_1.jpg' />",
             "reference": "<p>Explanation:<br>Azure containers are the backbone of the virtual disks platform for Azure IaaS. Both Azure OS and data disks are implemented as virtual disks where data is durably persisted in the Azure Storage platform and then delivered to the virtual machines for maximum performance. Azure Disks are persisted in Hyper-V VHD format and stored as a page blob in Azure Storage.<br>Reference:<br/>https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-pageblob-overview<br/></br></br></p>"
@@ -6815,7 +6830,7 @@
                     "value": "D"
                 }
             ],
-            "answer": "",
+            "answer": "ISS",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-262_1.jpg' />",
             "reference": "<p>Explanation:<br>Defence in depth layers (from bottom to top):<br>✑ Data<br/>- In almost all cases attackers are after data.<br/>- Data can be in database, stored on disk inside VMs, on a SaaS application such as Office 365 or in cloud storage.<br/>- Those storing and controlling access to data to ensures that it's properly secured<br/>- Often regulatory requirements dictates controls &amp; processes<br/>- to ensure confidentiality, integrity, and availability.<br/>✑ Application<br/>- Ensure applications are secure and free of vulnerabilities.<br/>- Store sensitive application secrets in a secure storage medium.<br/>- Make security a design requirement for all application development.<br/>- Integrate security into the application development life cycle.<br/>✑ Compute<br/>- Secure access to virtual machines.<br/>- Implement endpoint protection and keep systems patched and current.<br/>- Malware, unpatched systems, and improperly secured systems open your environment to attacks.<br/>✑ Networking<br/>- Limit communication between resources.<br/>- Deny by default.<br/>- Allow only what is required<br/>- Restrict inbound internet access and limit outbound, where appropriate.<br/>- Implement secure connectivity to on-premises networks.<br/>✑ Perimeter<br/>- Use distributed denial of service (DDoS) protection to filter large-scale attacks before they can cause a denial of service for end users.<br/>- Use perimeter firewalls to identify and alert on malicious attacks against your network.<br/>✑ Identity and access<br/>- Control access to infrastructure and change control.<br/>- Access granted is only what is needed<br/>- Use single sign-on and multi-factor authentication.<br/>- Audit events and changes.<br/>✑ Physical security<br/>- Building security &amp; controlling access to computing hardware.<br/>- First line of defense.<br/>Reference:<br/>https://github.com/undergroundwires/Azure-in-bullet-points/blob/master/AZ-900%20Microsoft%20Azure%20Fundamentals/4.2.%20Defence%20in%20Depth.md<br/></br></br></p>"
