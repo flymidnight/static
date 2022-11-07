@@ -5997,6 +5997,7 @@
             "numOfOptions": 3,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": [],
+            "type": "",
             "answer": "",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-226_1.jpg' />",
@@ -6810,7 +6811,7 @@
         {
             "title": "Question 227 ( Describe general security and network security features )",
             "question": "<p> DRAG DROP -<br/>You need to complete the defense-in-depth strategy used in a datacenter.<br/>What should you do? To answer, drag the appropriate layers to the correct positions in the model. Each layer may be used once, more than once, or not at all.<br/>You may need to drag the split bar between panes or scroll to view content.<br/>NOTE: Each correct selection is worth one point.<br/>Select and Place:<br/><div class='image_container'><img alt='' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-261_1.jpg'/></div><br/></p>",
-            "numOfOptions": 4,
+            "numOfOptions": 3,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": [
                 {
@@ -6822,15 +6823,12 @@
                     "value": "B"
                 },
                 {
-                    "name": "Identity & Access",
-                    "value": "C"
-                },
-                {
                     "name": "Physical Security",
-                    "value": "D"
+                    "value": "C"
                 }
             ],
-            "answer": "ISS",
+            "type": "IMS",
+            "answer": "CAB",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-262_1.jpg' />",
             "reference": "<p>Explanation:<br>Defence in depth layers (from bottom to top):<br>✑ Data<br/>- In almost all cases attackers are after data.<br/>- Data can be in database, stored on disk inside VMs, on a SaaS application such as Office 365 or in cloud storage.<br/>- Those storing and controlling access to data to ensures that it's properly secured<br/>- Often regulatory requirements dictates controls &amp; processes<br/>- to ensure confidentiality, integrity, and availability.<br/>✑ Application<br/>- Ensure applications are secure and free of vulnerabilities.<br/>- Store sensitive application secrets in a secure storage medium.<br/>- Make security a design requirement for all application development.<br/>- Integrate security into the application development life cycle.<br/>✑ Compute<br/>- Secure access to virtual machines.<br/>- Implement endpoint protection and keep systems patched and current.<br/>- Malware, unpatched systems, and improperly secured systems open your environment to attacks.<br/>✑ Networking<br/>- Limit communication between resources.<br/>- Deny by default.<br/>- Allow only what is required<br/>- Restrict inbound internet access and limit outbound, where appropriate.<br/>- Implement secure connectivity to on-premises networks.<br/>✑ Perimeter<br/>- Use distributed denial of service (DDoS) protection to filter large-scale attacks before they can cause a denial of service for end users.<br/>- Use perimeter firewalls to identify and alert on malicious attacks against your network.<br/>✑ Identity and access<br/>- Control access to infrastructure and change control.<br/>- Access granted is only what is needed<br/>- Use single sign-on and multi-factor authentication.<br/>- Audit events and changes.<br/>✑ Physical security<br/>- Building security &amp; controlling access to computing hardware.<br/>- First line of defense.<br/>Reference:<br/>https://github.com/undergroundwires/Azure-in-bullet-points/blob/master/AZ-900%20Microsoft%20Azure%20Fundamentals/4.2.%20Defence%20in%20Depth.md<br/></br></br></p>"
