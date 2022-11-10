@@ -4616,7 +4616,7 @@
                   }
                 ]
             },
-            "type": "MS",
+            "type": "SMS",
             "answer": "BD",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-174_2.jpg' />",
@@ -10744,7 +10744,7 @@
                   }
                 ]
               },
-            "type": "MS",
+            "type": "SMS",
             "answer": "CFG",
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-417_2.jpg' />",
