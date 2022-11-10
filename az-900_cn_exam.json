@@ -2592,7 +2592,7 @@
         },
         {
             "title": "Question 97 ( Describe Core Azure Services )",
-            "question": "<p> HOTSPOT -<br/>您计划将公司的网络扩展到 Azure。<br/>网络包含一个使用 IP 地址 131.107.200.1 的 VPN 设备。<br/>您需要创建在 Azure 中定义 VPN 设备的 Azure 资源。<br/>您应该创建哪个 Azure 资源？要回答，请在回答区域中选择适当的资源。<br/>热点区域：<br/><div class='image_container'><img class='in-exam-image' src='https://raw .githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-99_1.png'/></div><br/></p>",
+            "question": "<p> HOTSPOT -<br/>您计划将公司的网络扩展到 Azure。<br/>网络包含一个使用 IP 地址 131.107.200.1 的 VPN 设备。<br/>您需要创建在 Azure 中定义 VPN 设备的 Azure 资源。<br/>您应该创建哪个 Azure 资源？要回答，请在回答区域中选择适当的资源。<br/>热点区域：<br/><div class='image_container'><img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-99_1.png'/></div><br/></p>",
             "numOfOptions": 6,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": [
@@ -2906,7 +2906,7 @@
         },
         {
             "title": "Question 109 ( Describe Core Azure Services )",
-            "question": "<p> HOTSPOT -<br/>您打算创建一个Azure虚拟机。<br/>您需要确定必须使用哪个存储服务来存储虚拟机的非托管数据磁盘。<br/>您应该做什么确认？要回答，请在回答区选择相应的服务。<br/>热点区：<br/><div class='image_container'><img class='in-exam-image' src='https://raw .githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-114_1.jpg'/></div><br/></p>",
+            "question": "<p> HOTSPOT -<br/>您打算创建一个Azure虚拟机。<br/>您需要确定必须使用哪个存储服务来存储虚拟机的非托管数据磁盘。<br/>您应该做什么确认？要回答，请在回答区选择相应的服务。<br/>热点区：<br/><div class='image_container'><img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-114_1.jpg'/></div><br/></p>",
             "numOfOptions": 0,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": [
@@ -2989,7 +2989,7 @@
         },
         {
             "title": "Question 112 ( Describe Core Azure Services )",
-            "question": "<p> HOTSPOT -<br/>您计划实现一个Azure数据库解决方案。<br/>您需要实现一个满足以下要求的数据库解决方案：<br/>✑ 可以同时从多个区域添加数据<br/ >✑ 可以存储JSON文档<br/>你应该部署哪个数据库服务？要回答，请在回答区选择相应的服务。<br/>热点区：<br/><div class='image_container'><img class='in-exam-image' src='https://raw .githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-117_3.jpg'/></div><br/></p>",
+            "question": "<p> HOTSPOT -<br/>您计划实现一个Azure数据库解决方案。<br/>您需要实现一个满足以下要求的数据库解决方案：<br/>✑ 可以同时从多个区域添加数据<br/ >✑ 可以存储JSON文档<br/>你应该部署哪个数据库服务？要回答，请在回答区选择相应的服务。<br/>热点区：<br/><div class='image_container'><img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-117_3.jpg'/></div><br/></p>",
             "numOfOptions": 0,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": null,
@@ -4816,7 +4816,7 @@
         },
         {
             "title": "Question 168 ( Describe core solutions and management tools on Azure )",
-            "question": "<p> HOTSPOT -<br/>您需要查看可能影响 Azure 订阅可用性的计划维护事件列表。<br/>您应该使用 Azure 门户中的哪个刀片？要回答，请在回答区域中选择适当的刀片。<br/>热点区域：<br/><div class='image_container'><img class='in-exam-image' src='https://raw .githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-182_1.jpg'/></div><br/></p>",
+            "question": "<p> HOTSPOT -<br/>您需要查看可能影响 Azure 订阅可用性的计划维护事件列表。<br/>您应该使用 Azure 门户中的哪个刀片？要回答，请在回答区域中选择适当的刀片。<br/>热点区域：<br/><div class='image_container'><img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-182_1.jpg'/></div><br/></p>",
             "numOfOptions": 0,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": null,
@@ -6554,7 +6554,7 @@
         },
         {
             "title": "Question 215 ( Describe core solutions and management tools on Azure )",
-            "question": "<p> HOTSPOT -<br/>您需要使用 Azure Cloud Shell 来管理 Azure。<br/>您应该选择哪个 Azure 门户图标？要回答，请在回答区域中选择相应的图标。<br/>热点区域：<br/><div class='image_container'><img class='in-exam-image' src='https://raw .githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-246_1.jpg'/></div><br/></p>",
+            "question": "<p> HOTSPOT -<br/>您需要使用 Azure Cloud Shell 来管理 Azure。<br/>您应该选择哪个 Azure 门户图标？要回答，请在回答区域中选择相应的图标。<br/>热点区域：<br/><div class='image_container'><img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-246_1.jpg'/></div><br/></p>",
             "numOfOptions": 3,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": [],
@@ -8457,7 +8457,7 @@
         },
         {
             "title": "Question 276 ( Describe identity, governance, privacy, and compliance features )",
-            "question": "<p> HOTSPOT -<br/>您在 Azure 资源管理器中创建一个名为 RG1 的资源组。<br/>您需要防止意外删除 RG1 中的资源。<br/>您应该使用哪个设置？要回答，请在回答区域中选择适当的设置。<br/>热点区域：<br/><div class='image_container'><img class='in-exam-image' src='https://raw .githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-316_1.jpg'/></div><br/></p>",
+            "question": "<p> HOTSPOT -<br/>您在 Azure 资源管理器中创建一个名为 RG1 的资源组。<br/>您需要防止意外删除 RG1 中的资源。<br/>您应该使用哪个设置？要回答，请在回答区域中选择适当的设置。<br/>热点区域：<br/><div class='image_container'><img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-316_1.jpg'/></div><br/></p>",
             "numOfOptions": 0,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": {
@@ -9872,7 +9872,7 @@
         },
         {
             "title": "Question 328 ( Describe Azure cost management and Service Level Agreements )",
-            "question": "<p> HOTSPOT -<br/>您需要请求 Microsoft 为您的公司增加订阅配额限制。<br/>您应该使用 Azure 门户中的哪个刀片？要回答，请在回答区域中选择适当的刀片。<br/>热点区域：<br/><div class='image_container'><img class='in-exam-image' src='https://raw .githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-376_1.jpg'/></div><br/></p>",
+            "question": "<p> HOTSPOT -<br/>您需要请求 Microsoft 为您的公司增加订阅配额限制。<br/>您应该使用 Azure 门户中的哪个刀片？要回答，请在回答区域中选择适当的刀片。<br/>热点区域：<br/><div class='image_container'><img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-376_1.jpg'/></div><br/></p>",
             "numOfOptions": 0,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": null,
