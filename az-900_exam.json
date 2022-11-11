@@ -4628,20 +4628,60 @@
             "numOfOptions": 5,
             "lastUpdateDate": "<built-in method today of type object at 0x102ad8530>",
             "options": [
-                {
-                    "name": "Zone-redundant storage (ZRS)",
-                    "value": "A"
-                },
-                {
-                    "name": "Geo-redundant storage (GRS)",
-                    "value": "B"
-                },
-                {
-                    "name": "Locally-redundant storage (LRS)",
-                    "value": "C"
-                }
+                  {
+                    "sub_question": "Select and Place:",
+                    "options": [
+                      {
+                        "name": "Zone-redundant storage (ZRS)",
+                        "value": "A"
+                      },
+                      {
+                          "name": "Geo-redundant storage (GRS)",
+                          "value": "B"
+                      },
+                      {
+                          "name": "Locally-redundant storage (LRS)",
+                          "value": "C"
+                      }
+                    ]
+                  },
+                  {
+                    "sub_question": "Select and Place:",
+                    "options": [
+                      {
+                        "name": "Zone-redundant storage (ZRS)",
+                        "value": "A"
+                      },
+                      {
+                          "name": "Geo-redundant storage (GRS)",
+                          "value": "B"
+                      },
+                      {
+                          "name": "Locally-redundant storage (LRS)",
+                          "value": "C"
+                      }
+                    ]
+                  },
+                  {
+                    "sub_question": "Select and Place:",
+                    "options": [
+                      {
+                        "name": "Zone-redundant storage (ZRS)",
+                        "value": "A"
+                      },
+                      {
+                          "name": "Geo-redundant storage (GRS)",
+                          "value": "B"
+                      },
+                      {
+                          "name": "Locally-redundant storage (LRS)",
+                          "value": "C"
+                      }
+                    ]
+                  }
+                
             ],
-            "type": "SORT",
+            "type": "MSS",
             "answer": ["C", "A", "B"],
             "multi_select": false,
             "answer_image": "<img class='in-exam-image' src='https://raw.githubusercontent.com/flymidnight/static/main/az-900/assets/media/exam-media/xmlfile-175_2.jpg' />",
